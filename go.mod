@@ -1,4 +1,4 @@
-module TestTest
+module github.com/deer7777/TestTest
 
 go 1.21.1
 
